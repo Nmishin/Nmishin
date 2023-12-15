@@ -4,7 +4,7 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 
 #### 📫 How to reach me:
 
-- ✉️ sanduku.default@gmail.comm
+- ✉️ sanduku.default@gmail.com
 
 #### 👷 Currently working on
 
