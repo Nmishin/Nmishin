@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋 I'm Nick
 
-<!--
-**Nmishin/Nmishin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 
-Here are some ideas to get you started:
+#### 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✉️ sanduku.default@gmail.com
+
+#### 👷 Currently working on
+
+
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (today)
+- [Nmishin/tf-acc-ba8qv](https://github.com/Nmishin/tf-acc-ba8qv) -  (1 day ago)
+- [Nmishin/tf-acc-7kej2](https://github.com/Nmishin/tf-acc-7kej2) -  (1 day ago)
+- [Nmishin/tf-acc-m8lx1](https://github.com/Nmishin/tf-acc-m8lx1) -  (1 day ago)
+- [Nmishin/tf-acc-arb6q](https://github.com/Nmishin/tf-acc-arb6q) -  (1 day ago)
