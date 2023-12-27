@@ -10,10 +10,10 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 
 
 - [opentofuutils/tofuenv](https://github.com/opentofuutils/tofuenv) - OpenTofu version manager (1 day ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (6 days ago)
 - [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (1 week ago)
 - [Nmishin/testsss](https://github.com/Nmishin/testsss) -  (3 weeks ago)
 - [Nmishin/amplication](https://github.com/Nmishin/amplication) -  (3 weeks ago)
-- [kvendingoldo/mks-bot](https://github.com/kvendingoldo/mks-bot) - Bot for https://github.com/nochlezhka/mks (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
