@@ -9,11 +9,11 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 #### 👷 Currently working on
 
 
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (today)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) -  (1 day ago)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (6 days ago)
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (1 week ago)
 - [Nmishin/testsss](https://github.com/Nmishin/testsss) -  (2 weeks ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
