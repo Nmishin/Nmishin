@@ -16,3 +16,7 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
+
+#### 📜 My recent blog posts
+- [How to Manage Multiple OpenTofu Versions With Tofuenv](https://hackernoon.com/how-to-manage-multiple-opentofu-versions-with-tofuenv)
+- [Resize filesystem or Change Any File on Your Proxmox VM if Locked Out!](https://hackernoon.com/resize-filesystem-or-change-any-file-on-your-proxmox-vm-if-locked-out)
