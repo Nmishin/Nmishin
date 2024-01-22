@@ -17,7 +17,7 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.45.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.45.0), 3 days ago) - Terraform GitHub provider
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.0.0-beta](https://github.com/integrations/terraform-provider-github/releases/tag/v6.0.0-beta), today) - Terraform GitHub provider
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.86.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.86.0), 5 days ago) - Go library for the Cloudflare v4 API
 - [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) ([v0.18.0](https://github.com/cloudflare/cf-terraforming/releases/tag/v0.18.0), 1 week ago) - A command line utility to facilitate terraforming your existing Cloudflare resources.
 - [google/go-github](https://github.com/google/go-github) ([v58.0.0](https://github.com/google/go-github/releases/tag/v58.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
