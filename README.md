@@ -17,8 +17,8 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 
 #### 🔭 Latest releases I've contributed to
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.6](https://github.com/tofuutils/tenv/releases/tag/v1.0.6), today) - OpenTofu / Terraform version manager
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.23.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.23.0), 1 day ago) - Cloudflare Terraform Provider
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.5](https://github.com/tofuutils/tenv/releases/tag/v1.0.5), 1 day ago) - OpenTofu / Terraform version manager
 - [tofuutils/gotofuenv](https://github.com/tofuutils/gotofuenv) ([v1.0.2](https://github.com/tofuutils/gotofuenv/releases/tag/v1.0.2), 1 day ago) - OpenTofu version manager
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.0.0-beta](https://github.com/integrations/terraform-provider-github/releases/tag/v6.0.0-beta), 2 days ago) - Terraform GitHub provider
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.86.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.86.0), 1 week ago) - Go library for the Cloudflare v4 API
