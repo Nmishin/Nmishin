@@ -9,16 +9,16 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 #### 👷 Currently working on
 
 
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (5 days ago)
-- [kvendingoldo/mks-bot](https://github.com/kvendingoldo/mks-bot) - Bot for https://github.com/nochlezhka/mks (5 days ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (5 days ago)
-- [aovpn/testsss](https://github.com/aovpn/testsss) -  (6 days ago)
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (6 days ago)
+- [kvendingoldo/mks-bot](https://github.com/kvendingoldo/mks-bot) - Bot for https://github.com/nochlezhka/mks (6 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (6 days ago)
+- [aovpn/testsss](https://github.com/aovpn/testsss) -  (1 week ago)
 - [nochlezhka/terraform-modules](https://github.com/nochlezhka/terraform-modules) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.7](https://github.com/tofuutils/tenv/releases/tag/v1.0.7), 4 days ago) - OpenTofu / Terraform / Terragrunt version manager
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.4](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.4), 5 days ago) - OpenTofu version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.7](https://github.com/tofuutils/tenv/releases/tag/v1.0.7), 5 days ago) - OpenTofu / Terraform / Terragrunt version manager
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.4](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.4), 6 days ago) - OpenTofu version manager
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.23.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.23.0), 1 week ago) - Cloudflare Terraform Provider
 - [tofuutils/gotofuenv](https://github.com/tofuutils/gotofuenv) ([v1.0.2](https://github.com/tofuutils/gotofuenv/releases/tag/v1.0.2), 1 week ago) - OpenTofu version manager
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.0.0-beta](https://github.com/integrations/terraform-provider-github/releases/tag/v6.0.0-beta), 1 week ago) - Terraform GitHub provider
