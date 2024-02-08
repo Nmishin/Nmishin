@@ -9,11 +9,11 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 #### 👷 Currently working on
 
 
+- [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (today)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (6 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (2 weeks ago)
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (2 weeks ago)
 - [kvendingoldo/mks-bot](https://github.com/kvendingoldo/mks-bot) - Bot for https://github.com/nochlezhka/mks (2 weeks ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (2 weeks ago)
-- [aovpn/testsss](https://github.com/aovpn/testsss) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
