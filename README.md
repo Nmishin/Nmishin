@@ -9,11 +9,11 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 #### 👷 Currently working on
 
 
+- [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) -  (1 day ago)
 - [Nmishin/dodo-go](https://github.com/Nmishin/dodo-go) - Go library for the Dodo Global API v2 (6 days ago)
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (6 days ago)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (1 week ago)
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (2 weeks ago)
-- [kvendingoldo/mks-bot](https://github.com/kvendingoldo/mks-bot) - Bot for https://github.com/nochlezhka/mks (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
