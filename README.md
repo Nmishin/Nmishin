@@ -17,11 +17,11 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.25.0), today) - Cloudflare Terraform Provider
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.6](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.6), 5 days ago) - OpenTofu version manager
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.0.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.0.0), 5 days ago) - Terraform GitHub provider
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.1](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.1), 6 days ago) - Terraform dodo pizza provider
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.15](https://github.com/tofuutils/tenv/releases/tag/v1.0.15), 1 week ago) - OpenTofu / Terraform / Terragrunt version manager
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.88.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.88.0), 1 week ago) - Go library for the Cloudflare v4 API
 
 #### 📜 My recent blog posts
 - [How to Manage Multiple OpenTofu Versions With Tofuenv](https://hackernoon.com/how-to-manage-multiple-opentofu-versions-with-tofuenv)
