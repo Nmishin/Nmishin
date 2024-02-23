@@ -17,11 +17,11 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 
 #### 🔭 Latest releases I've contributed to
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.1.1](https://github.com/tofuutils/tenv/releases/tag/v1.1.1), today) - OpenTofu / Terraform / Terragrunt version manager
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.25.0), 2 days ago) - Cloudflare Terraform Provider
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.6](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.6), 1 week ago) - OpenTofu version manager
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.0.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.0.0), 1 week ago) - Terraform GitHub provider
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.1](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.1), 1 week ago) - Terraform dodo pizza provider
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.15](https://github.com/tofuutils/tenv/releases/tag/v1.0.15), 1 week ago) - OpenTofu / Terraform / Terragrunt version manager
 
 #### 📜 My recent blog posts
 - [How to Manage Multiple OpenTofu Versions With Tofuenv](https://hackernoon.com/how-to-manage-multiple-opentofu-versions-with-tofuenv)
