@@ -24,5 +24,6 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 - [google/go-github](https://github.com/google/go-github) ([v60.0.0](https://github.com/google/go-github/releases/tag/v60.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 
 #### 📜 My recent blog posts
+- [My Path for Terraform Provider Creation](https://hackernoon.com/my-path-for-terraform-provider-creation)
 - [How to Manage Multiple OpenTofu Versions With Tofuenv](https://hackernoon.com/how-to-manage-multiple-opentofu-versions-with-tofuenv)
 - [Resize filesystem or Change Any File on Your Proxmox VM if Locked Out!](https://hackernoon.com/resize-filesystem-or-change-any-file-on-your-proxmox-vm-if-locked-out)
