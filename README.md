@@ -28,6 +28,4 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 - [How to Manage Multiple OpenTofu Versions With Tofuenv](https://hackernoon.com/how-to-manage-multiple-opentofu-versions-with-tofuenv)
 - [Resize filesystem or Change Any File on Your Proxmox VM if Locked Out!](https://hackernoon.com/resize-filesystem-or-change-any-file-on-your-proxmox-vm-if-locked-out)
 
-#### Profile Views
-
-<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=Nmishin" /> <h2>
+![](https://komarev.com/ghpvc/?username=Nmishin&color=green)
