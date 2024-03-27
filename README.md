@@ -17,7 +17,7 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.0.0-beta.15](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.0.0-beta.15), 1 day ago) - The official Go library for the Cloudflare API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.92.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.92.0), today) - The official Go library for the Cloudflare API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.2.1](https://github.com/integrations/terraform-provider-github/releases/tag/v6.2.1), 2 days ago) - Terraform GitHub provider
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.3.0](https://github.com/tofuutils/tenv/releases/tag/v1.3.0), 2 days ago) - OpenTofu / Terraform / Terragrunt version manager
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.2](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.2), 4 days ago) - Terraform dodo pizza provider
