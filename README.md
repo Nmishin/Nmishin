@@ -17,8 +17,8 @@ DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
 
 #### 🔭 Latest releases I've contributed to
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.5.0](https://github.com/tofuutils/tenv/releases/tag/v1.5.0), today) - OpenTofu / Terraform / Terragrunt version manager
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.3](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.3), 1 day ago) - Terraform dodo pizza provider
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.4.0](https://github.com/tofuutils/tenv/releases/tag/v1.4.0), 1 day ago) - OpenTofu / Terraform / Terragrunt version manager
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.29.0), 1 day ago) - Cloudflare Terraform Provider
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.0.0-beta.17](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.0.0-beta.17), 2 days ago) - The official Go library for the Cloudflare API
 - [google/go-github](https://github.com/google/go-github) ([v61.0.0](https://github.com/google/go-github/releases/tag/v61.0.0), 3 days ago) - Go library for accessing the GitHub v3 API
