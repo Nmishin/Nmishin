@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nick
 
-DevOps engineer at [Grid Dynamics](https://www.griddynamics.com/).
+DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 📫 How to reach me:
 
