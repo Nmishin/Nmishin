@@ -17,7 +17,7 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.6.2](https://github.com/tofuutils/tenv/releases/tag/v1.6.2), 3 days ago) - OpenTofu / Terraform / Terragrunt version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.7.0](https://github.com/tofuutils/tenv/releases/tag/v1.7.0), today) - OpenTofu / Terraform / Terragrunt version manager
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.3](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.3), 5 days ago) - Terraform dodo pizza provider
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.29.0), 5 days ago) - Cloudflare Terraform Provider
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.0.0-beta.17](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.0.0-beta.17), 6 days ago) - The official Go library for the Cloudflare API
