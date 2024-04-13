@@ -10,15 +10,15 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (1 week ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (4 weeks ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 month ago)
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (1 month ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (1 month ago)
-- [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) - Homebrew formulas that are managed and maintained by tofuutils team. (1 month ago)
+- [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) - Homebrew formulas that are managed and maintained by tofuutils team. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.0.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.0.0), today) - The official Go library for the Cloudflare API
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.7.1](https://github.com/tofuutils/tenv/releases/tag/v1.7.1), 3 days ago) - OpenTofu / Terraform / Terragrunt version manager
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.0.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.0.0), 1 day ago) - The official Go library for the Cloudflare API
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.7.1](https://github.com/tofuutils/tenv/releases/tag/v1.7.1), 4 days ago) - OpenTofu / Terraform / Terragrunt version manager
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.3](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.3), 1 week ago) - Terraform dodo pizza provider
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.29.0), 1 week ago) - Cloudflare Terraform Provider
 - [google/go-github](https://github.com/google/go-github) ([v61.0.0](https://github.com/google/go-github/releases/tag/v61.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
