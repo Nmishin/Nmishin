@@ -17,8 +17,8 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.0.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.0.0), 3 days ago) - The official Go library for the Cloudflare API
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.7.1](https://github.com/tofuutils/tenv/releases/tag/v1.7.1), 6 days ago) - OpenTofu / Terraform / Terragrunt version manager
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.0.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.0.0), 4 days ago) - The official Go library for the Cloudflare API
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.7.1](https://github.com/tofuutils/tenv/releases/tag/v1.7.1), 1 week ago) - OpenTofu / Terraform / Terragrunt version manager
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.3](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.3), 1 week ago) - Terraform dodo pizza provider
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.29.0), 1 week ago) - Cloudflare Terraform Provider
 - [google/go-github](https://github.com/google/go-github) ([v61.0.0](https://github.com/google/go-github/releases/tag/v61.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
