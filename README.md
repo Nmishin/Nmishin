@@ -24,6 +24,7 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 - [google/go-github](https://github.com/google/go-github) ([v61.0.0](https://github.com/google/go-github/releases/tag/v61.0.0), 3 weeks ago) - Go library for accessing the GitHub v3 API
 
 #### 📜 My recent blog posts
+- [6 GitHub Repos for DevSecOps in 2024](https://hackernoon.com/6-github-repos-for-devsecops-in-2024)
 - [My Path for Terraform Provider Creation](https://hackernoon.com/my-path-for-terraform-provider-creation)
 - [How to Manage Multiple OpenTofu Versions With Tofuenv](https://hackernoon.com/how-to-manage-multiple-opentofu-versions-with-tofuenv)
 - [Resize filesystem or Change Any File on Your Proxmox VM if Locked Out!](https://hackernoon.com/resize-filesystem-or-change-any-file-on-your-proxmox-vm-if-locked-out)
