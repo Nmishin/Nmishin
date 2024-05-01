@@ -9,11 +9,11 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 #### 👷 Currently working on
 
 
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (2 days ago)
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (4 weeks ago)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 month ago)
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (2 months ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (2 months ago)
-- [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) - Homebrew formulas that are managed and maintained by tofuutils team. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
