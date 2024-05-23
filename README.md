@@ -17,8 +17,8 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 🔭 Latest releases I've contributed to
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.11.4](https://github.com/tofuutils/tenv/releases/tag/v1.11.4), today) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.96.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.96.0), 1 day ago) - The official Go library for the Cloudflare API
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.11.2](https://github.com/tofuutils/tenv/releases/tag/v1.11.2), 4 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) ([v0.20.0](https://github.com/cloudflare/cf-terraforming/releases/tag/v0.20.0), 1 week ago) - A command line utility to facilitate terraforming your existing Cloudflare resources.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.33.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.33.0), 1 week ago) - Cloudflare Terraform Provider
 - [google/go-github](https://github.com/google/go-github) ([v62.0.0](https://github.com/google/go-github/releases/tag/v62.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
