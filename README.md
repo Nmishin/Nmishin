@@ -10,10 +10,10 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (1 day ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
 - [tofuutils/tenv-nix](https://github.com/tofuutils/tenv-nix) -  (1 week ago)
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (1 month ago)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (2 months ago)
-- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
