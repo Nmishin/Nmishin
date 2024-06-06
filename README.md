@@ -17,7 +17,7 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.11.8](https://github.com/tofuutils/tenv/releases/tag/v1.11.8), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v2.0.0](https://github.com/tofuutils/tenv/releases/tag/v2.0.0), today) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.97.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.97.0), 1 day ago) - The official Go library for the Cloudflare API
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.34.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.34.0), 1 week ago) - Cloudflare Terraform Provider
 - [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) ([v0.20.0](https://github.com/cloudflare/cf-terraforming/releases/tag/v0.20.0), 3 weeks ago) - A command line utility to facilitate terraforming your existing Cloudflare resources.
