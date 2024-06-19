@@ -9,18 +9,18 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 #### 👷 Currently working on
 
 
-- [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) -  (1 day ago)
-- [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (4 days ago)
+- [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) -  (2 days ago)
+- [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (5 days ago)
 - [terraform-vk-cs-modules/terraform-vk-cs-storage-bucket](https://github.com/terraform-vk-cs-modules/terraform-vk-cs-storage-bucket) -  (1 week ago)
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) -  (1 week ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.3.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.3.0), today) - The official Go library for the Cloudflare API
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.2.2](https://github.com/integrations/terraform-provider-github/releases/tag/v6.2.2), 1 day ago) - Terraform GitHub provider
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v2.1.6](https://github.com/tofuutils/tenv/releases/tag/v2.1.6), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.35.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.35.0), 6 days ago) - Cloudflare Terraform Provider
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.98.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.98.0), today) - The official Go library for the Cloudflare API
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.2.2](https://github.com/integrations/terraform-provider-github/releases/tag/v6.2.2), 2 days ago) - Terraform GitHub provider
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v2.1.6](https://github.com/tofuutils/tenv/releases/tag/v2.1.6), 2 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.35.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.35.0), 1 week ago) - Cloudflare Terraform Provider
 - [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) ([v0.20.0](https://github.com/cloudflare/cf-terraforming/releases/tag/v0.20.0), 1 month ago) - A command line utility to facilitate terraforming your existing Cloudflare resources.
 
 #### 📜 My recent blog posts
