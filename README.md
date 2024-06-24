@@ -10,10 +10,10 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (today)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
 - [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) -  (4 days ago)
 - [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (1 week ago)
 - [terraform-vk-cs-modules/terraform-vk-cs-storage-bucket](https://github.com/terraform-vk-cs-modules/terraform-vk-cs-storage-bucket) -  (2 weeks ago)
-- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
