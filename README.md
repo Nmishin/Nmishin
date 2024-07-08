@@ -17,11 +17,11 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 🔭 Latest releases I've contributed to
 
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.2.3](https://github.com/integrations/terraform-provider-github/releases/tag/v6.2.3), today) - Terraform GitHub provider
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v2.4.0](https://github.com/tofuutils/tenv/releases/tag/v2.4.0), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.99.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.99.0), 5 days ago) - The official Go library for the Cloudflare API
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.1](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.1), 1 week ago) - 
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.36.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.36.0), 1 week ago) - Cloudflare Terraform Provider
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.2.2](https://github.com/integrations/terraform-provider-github/releases/tag/v6.2.2), 3 weeks ago) - Terraform GitHub provider
 
 #### 📜 My recent blog posts
 - [6 GitHub Repos for DevSecOps in 2024](https://hackernoon.com/6-github-repos-for-devsecops-in-2024)
