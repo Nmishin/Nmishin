@@ -9,7 +9,7 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 #### 👷 Currently working on
 
 
-- [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) -  (4 days ago)
+- [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) -  (5 days ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (3 weeks ago)
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (3 weeks ago)
 - [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (1 month ago)
@@ -17,9 +17,9 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v2.4.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v2.4.0), 1 day ago) - The official Go library for the Cloudflare API
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v2.6.0](https://github.com/tofuutils/tenv/releases/tag/v2.6.0), 2 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.37.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.37.0), 6 days ago) - Cloudflare Terraform Provider
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.100.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.100.0), 1 day ago) - The official Go library for the Cloudflare API
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v2.6.1](https://github.com/tofuutils/tenv/releases/tag/v2.6.1), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.37.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.37.0), 1 week ago) - Cloudflare Terraform Provider
 - [google/go-github](https://github.com/google/go-github) ([v63.0.0](https://github.com/google/go-github/releases/tag/v63.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.2.3](https://github.com/integrations/terraform-provider-github/releases/tag/v6.2.3), 1 week ago) - Terraform GitHub provider
 
