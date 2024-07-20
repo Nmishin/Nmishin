@@ -9,8 +9,8 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 #### 👷 Currently working on
 
 
+- [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) -  (today)
 - [Nmishin/git-template](https://github.com/Nmishin/git-template) -  (2 days ago)
-- [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) -  (1 week ago)
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (3 weeks ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (3 weeks ago)
 - [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (1 month ago)
