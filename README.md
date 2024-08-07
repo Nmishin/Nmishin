@@ -24,6 +24,7 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.2.3](https://github.com/integrations/terraform-provider-github/releases/tag/v6.2.3), 1 month ago) - Terraform GitHub provider
 
 #### 📜 My recent blog posts
+- [regreSSHion: Should We Panic About the New OpenSSH Vulnerability?](https://dzone.com/articles/what-is-the-regresshion-vulnerability)
 - [6 GitHub Repos for DevSecOps in 2024](https://hackernoon.com/6-github-repos-for-devsecops-in-2024)
 - [My Path for Terraform Provider Creation](https://hackernoon.com/my-path-for-terraform-provider-creation)
 - [How to Manage Multiple OpenTofu Versions With Tofuenv](https://hackernoon.com/how-to-manage-multiple-opentofu-versions-with-tofuenv)
