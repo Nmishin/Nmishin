@@ -13,13 +13,13 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 - [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) - Ansible role to install and configure OpenVPN server (3 weeks ago)
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (1 month ago)
 - [Nmishin/git-template](https://github.com/Nmishin/git-template) -  (1 month ago)
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (1 month ago)
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.40.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.40.0), 1 day ago) - Cloudflare Terraform Provider
-- [google/go-github](https://github.com/google/go-github) ([v64.0.0](https://github.com/google/go-github/releases/tag/v64.0.0), 1 day ago) - Go library for accessing the GitHub v3 API
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.1.0](https://github.com/tofuutils/tenv/releases/tag/v3.1.0), 4 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.40.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.40.0), 2 days ago) - Cloudflare Terraform Provider
+- [google/go-github](https://github.com/google/go-github) ([v64.0.0](https://github.com/google/go-github/releases/tag/v64.0.0), 2 days ago) - Go library for accessing the GitHub v3 API
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.1.0](https://github.com/tofuutils/tenv/releases/tag/v3.1.0), 5 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.102.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.102.0), 1 week ago) - The official Go library for the Cloudflare API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.2.3](https://github.com/integrations/terraform-provider-github/releases/tag/v6.2.3), 1 month ago) - Terraform GitHub provider
 
