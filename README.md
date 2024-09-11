@@ -17,9 +17,9 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.2](https://github.com/tofuutils/tenv/releases/tag/v3.2.2), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.41.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.41.0), 6 days ago) - Cloudflare Terraform Provider
-- [google/go-github](https://github.com/google/go-github) ([v64.0.0](https://github.com/google/go-github/releases/tag/v64.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.2](https://github.com/tofuutils/tenv/releases/tag/v3.2.2), 2 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.41.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.41.0), 1 week ago) - Cloudflare Terraform Provider
+- [google/go-github](https://github.com/google/go-github) ([v64.0.0](https://github.com/google/go-github/releases/tag/v64.0.0), 3 weeks ago) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.2.3](https://github.com/integrations/terraform-provider-github/releases/tag/v6.2.3), 2 months ago) - Terraform GitHub provider
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.1](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.1), 2 months ago) - 
 
