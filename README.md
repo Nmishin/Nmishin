@@ -12,13 +12,13 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 month ago)
 - [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) - Ansible role to install and configure OpenVPN server (1 month ago)
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (1 month ago)
-- [Nmishin/git-template](https://github.com/Nmishin/git-template) -  (1 month ago)
+- [Nmishin/git-template](https://github.com/Nmishin/git-template) -  (2 months ago)
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.3.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.3.0), 2 days ago) - Terraform GitHub provider
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.2](https://github.com/tofuutils/tenv/releases/tag/v3.2.2), 6 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.3.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.3.0), 3 days ago) - Terraform GitHub provider
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.2](https://github.com/tofuutils/tenv/releases/tag/v3.2.2), 1 week ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.41.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.41.0), 1 week ago) - Cloudflare Terraform Provider
 - [google/go-github](https://github.com/google/go-github) ([v64.0.0](https://github.com/google/go-github/releases/tag/v64.0.0), 3 weeks ago) - Go library for accessing the GitHub v3 API
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.1](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.1), 2 months ago) - 
