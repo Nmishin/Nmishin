@@ -17,8 +17,8 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.0.0-alpha1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.0.0-alpha1), today) - Cloudflare Terraform Provider
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v1.0.4](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v1.0.4), 3 days ago) - pre-commit git hooks to take care of OpenTofu configurations
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.42.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.42.0), 6 days ago) - Cloudflare Terraform Provider
 - [google/go-github](https://github.com/google/go-github) ([v65.0.0](https://github.com/google/go-github/releases/tag/v65.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.3.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.3.0), 1 week ago) - Terraform GitHub provider
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.2](https://github.com/tofuutils/tenv/releases/tag/v3.2.2), 2 weeks ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
