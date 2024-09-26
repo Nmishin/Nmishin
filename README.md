@@ -9,7 +9,7 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 #### 👷 Currently working on
 
 
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (4 days ago)
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (5 days ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 month ago)
 - [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) - Ansible role to install and configure OpenVPN server (1 month ago)
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (2 months ago)
@@ -17,8 +17,8 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.0.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.0.0), today) - pre-commit git hooks to take care of OpenTofu configurations
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.0.0-alpha1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.0.0-alpha1), 1 day ago) - Cloudflare Terraform Provider
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.0.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.0.0), 1 day ago) - pre-commit git hooks to take care of OpenTofu configurations
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.0.0-alpha1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.0.0-alpha1), 2 days ago) - Cloudflare Terraform Provider
 - [google/go-github](https://github.com/google/go-github) ([v65.0.0](https://github.com/google/go-github/releases/tag/v65.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.3.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.3.0), 1 week ago) - Terraform GitHub provider
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.2](https://github.com/tofuutils/tenv/releases/tag/v3.2.2), 2 weeks ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
