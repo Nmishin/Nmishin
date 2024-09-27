@@ -9,11 +9,11 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 #### 👷 Currently working on
 
 
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (today)
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (6 days ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 month ago)
 - [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) - Ansible role to install and configure OpenVPN server (1 month ago)
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (2 months ago)
-- [Nmishin/git-template](https://github.com/Nmishin/git-template) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
