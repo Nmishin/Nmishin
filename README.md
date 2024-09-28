@@ -17,11 +17,11 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 🔭 Latest releases I've contributed to
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.3](https://github.com/tofuutils/tenv/releases/tag/v3.2.3), today) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.0.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.0.0), 3 days ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.0.0-alpha1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.0.0-alpha1), 4 days ago) - Cloudflare Terraform Provider
 - [google/go-github](https://github.com/google/go-github) ([v65.0.0](https://github.com/google/go-github/releases/tag/v65.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.3.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.3.0), 2 weeks ago) - Terraform GitHub provider
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.2](https://github.com/tofuutils/tenv/releases/tag/v3.2.2), 2 weeks ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 
 #### 📜 My recent blog posts
 - [regreSSHion: Should We Panic About the New OpenSSH Vulnerability?](https://dzone.com/articles/what-is-the-regresshion-vulnerability)
