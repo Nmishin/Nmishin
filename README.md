@@ -9,11 +9,11 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 #### 👷 Currently working on
 
 
+- [Nmishin/consul_exporter](https://github.com/Nmishin/consul_exporter) -  (today)
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (2 days ago)
 - [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (3 days ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (5 days ago)
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (1 week ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
