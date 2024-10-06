@@ -17,11 +17,11 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 🔭 Latest releases I've contributed to
 
+- [google/go-github](https://github.com/google/go-github) ([v66.0.0](https://github.com/google/go-github/releases/tag/v66.0.0), today) - Go library for accessing the GitHub v3 API
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.4](https://github.com/tofuutils/tenv/releases/tag/v3.2.4), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.12.1](https://github.com/nochlezhka/mks/releases/tag/2.12.1), 1 day ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.43.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.43.0), 6 days ago) - Cloudflare Terraform Provider
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.0.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.0.0), 1 week ago) - pre-commit git hooks to take care of OpenTofu configurations
-- [google/go-github](https://github.com/google/go-github) ([v65.0.0](https://github.com/google/go-github/releases/tag/v65.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 
 #### 📜 My recent blog posts
 - [regreSSHion: Should We Panic About the New OpenSSH Vulnerability?](https://dzone.com/articles/what-is-the-regresshion-vulnerability)
