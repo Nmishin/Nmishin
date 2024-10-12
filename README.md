@@ -13,15 +13,15 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (1 week ago)
 - [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (1 week ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (2 weeks ago)
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (2 weeks ago)
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.3.1](https://github.com/integrations/terraform-provider-github/releases/tag/v6.3.1), 1 day ago) - Terraform GitHub provider
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) ([v0.21.0](https://github.com/cloudflare/cf-terraforming/releases/tag/v0.21.0), 3 days ago) - A command line utility to facilitate terraforming your existing Cloudflare resources.
-- [google/go-github](https://github.com/google/go-github) ([v66.0.0](https://github.com/google/go-github/releases/tag/v66.0.0), 5 days ago) - Go library for accessing the GitHub v3 API
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.4](https://github.com/tofuutils/tenv/releases/tag/v3.2.4), 6 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.12.1](https://github.com/nochlezhka/mks/releases/tag/2.12.1), 6 days ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.3.1](https://github.com/integrations/terraform-provider-github/releases/tag/v6.3.1), 2 days ago) - Terraform GitHub provider
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) ([v0.21.0](https://github.com/cloudflare/cf-terraforming/releases/tag/v0.21.0), 4 days ago) - A command line utility to facilitate terraforming your existing Cloudflare resources.
+- [google/go-github](https://github.com/google/go-github) ([v66.0.0](https://github.com/google/go-github/releases/tag/v66.0.0), 6 days ago) - Go library for accessing the GitHub v3 API
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.4](https://github.com/tofuutils/tenv/releases/tag/v3.2.4), 1 week ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.12.1](https://github.com/nochlezhka/mks/releases/tag/2.12.1), 1 week ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 
 #### 📜 My recent blog posts
 - [regreSSHion: Should We Panic About the New OpenSSH Vulnerability?](https://dzone.com/articles/what-is-the-regresshion-vulnerability)
