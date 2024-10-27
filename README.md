@@ -13,11 +13,11 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 - [Nmishin/consul_exporter](https://github.com/Nmishin/consul_exporter) -  (1 week ago)
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (1 week ago)
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (3 weeks ago)
-- [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (3 weeks ago)
+- [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.8](https://github.com/tofuutils/tenv/releases/tag/v3.2.8), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.8](https://github.com/tofuutils/tenv/releases/tag/v3.2.8), 2 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.1.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.1.0), 1 week ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.44.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.44.0), 1 week ago) - Cloudflare Terraform Provider
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.3.1](https://github.com/integrations/terraform-provider-github/releases/tag/v6.3.1), 2 weeks ago) - Terraform GitHub provider
