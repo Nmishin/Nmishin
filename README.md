@@ -9,16 +9,16 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 #### 👷 Currently working on
 
 
-- [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) - Ansible role to install and configure OpenVPN server (1 day ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (3 days ago)
-- [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (5 days ago)
+- [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) - Ansible role to install and configure OpenVPN server (2 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (4 days ago)
+- [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (6 days ago)
 - [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (2 weeks ago)
 - [Nmishin/GitHub-PR-Status-Validator](https://github.com/Nmishin/GitHub-PR-Status-Validator) - Detects force-merged pull requests by checking both status checks and check runs on the merge and last commits, ensuring all required checks passed before merging. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.47.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.47.0), today) - Cloudflare Terraform Provider
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.4.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.4.0), 6 days ago) - Terraform GitHub provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.47.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.47.0), 1 day ago) - Cloudflare Terraform Provider
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.4.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.4.0), 1 week ago) - Terraform GitHub provider
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.10](https://github.com/tofuutils/tenv/releases/tag/v3.2.10), 4 weeks ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.1.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.1.0), 1 month ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) ([v0.21.0](https://github.com/cloudflare/cf-terraforming/releases/tag/v0.21.0), 1 month ago) - A command line utility to facilitate terraforming your existing Cloudflare resources.
