@@ -18,7 +18,7 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 #### 🔭 Latest releases I've contributed to
 
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.47.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.47.0), 1 week ago) - Cloudflare Terraform Provider
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.4.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.4.0), 1 week ago) - Terraform GitHub provider
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.4.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.4.0), 2 weeks ago) - Terraform GitHub provider
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.10](https://github.com/tofuutils/tenv/releases/tag/v3.2.10), 1 month ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.1.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.1.0), 1 month ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) ([v0.21.0](https://github.com/cloudflare/cf-terraforming/releases/tag/v0.21.0), 1 month ago) - A command line utility to facilitate terraforming your existing Cloudflare resources.
