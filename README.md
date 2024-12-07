@@ -21,7 +21,7 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.4.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.4.0), 2 weeks ago) - Terraform GitHub provider
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.10](https://github.com/tofuutils/tenv/releases/tag/v3.2.10), 1 month ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.1.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.1.0), 1 month ago) - pre-commit git hooks to take care of OpenTofu configurations
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) ([v0.21.0](https://github.com/cloudflare/cf-terraforming/releases/tag/v0.21.0), 1 month ago) - A command line utility to facilitate terraforming your existing Cloudflare resources.
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) ([v0.21.0](https://github.com/cloudflare/cf-terraforming/releases/tag/v0.21.0), 2 months ago) - A command line utility to facilitate terraforming your existing Cloudflare resources.
 
 #### 📜 My recent blog posts
 - [regreSSHion: Should We Panic About the New OpenSSH Vulnerability?](https://dzone.com/articles/what-is-the-regresshion-vulnerability)
