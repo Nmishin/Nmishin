@@ -10,14 +10,14 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 
 - [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) - Ansible role to install and configure OpenVPN server (1 week ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (3 weeks ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (4 weeks ago)
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (1 month ago)
 - [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (1 month ago)
 - [Nmishin/GitHub-PR-Status-Validator](https://github.com/Nmishin/GitHub-PR-Status-Validator) - Detects force-merged pull requests by checking both status checks and check runs on the merge and last commits, ensuring all required checks passed before merging. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.11](https://github.com/tofuutils/tenv/releases/tag/v3.2.11), 1 week ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.0.1](https://github.com/tofuutils/tenv/releases/tag/v4.0.1), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.48.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.48.0), 1 week ago) - Cloudflare Terraform Provider
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.4.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.4.0), 1 month ago) - Terraform GitHub provider
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.1.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.1.0), 2 months ago) - pre-commit git hooks to take care of OpenTofu configurations
