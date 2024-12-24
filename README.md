@@ -17,7 +17,7 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.0.1](https://github.com/tofuutils/tenv/releases/tag/v4.0.1), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.0.3](https://github.com/tofuutils/tenv/releases/tag/v4.0.3), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.48.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.48.0), 1 week ago) - Cloudflare Terraform Provider
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.4.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.4.0), 1 month ago) - Terraform GitHub provider
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.1.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.1.0), 2 months ago) - pre-commit git hooks to take care of OpenTofu configurations
