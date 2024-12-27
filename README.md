@@ -17,8 +17,8 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 #### 🔭 Latest releases I've contributed to
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.2.0-alpha6](https://github.com/tofuutils/tenv/releases/tag/v4.2.0-alpha6), today) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.49.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.49.1), 1 day ago) - Cloudflare Terraform Provider
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.1.0](https://github.com/tofuutils/tenv/releases/tag/v4.1.0), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.4.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.4.0), 1 month ago) - Terraform GitHub provider
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.1.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.1.0), 2 months ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.12.1](https://github.com/nochlezhka/mks/releases/tag/2.12.1), 2 months ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
