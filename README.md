@@ -9,15 +9,15 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 #### 👷 Currently working on
 
 
-- [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (1 day ago)
+- [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (today)
+- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (today)
 - [Nmishin/golang-opennebula](https://github.com/Nmishin/golang-opennebula) - Example Go OpenNebula Iteration (1 day ago)
 - [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) - Ansible role to install and configure OpenVPN server (1 week ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 month ago)
-- [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.4](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.4), 1 day ago) - Terraform dodo pizza provider
+- [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.5](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.5), today) - Terraform dodo pizza provider
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.2.0-beta1](https://github.com/tofuutils/tenv/releases/tag/v4.2.0-beta1), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.49.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.49.1), 2 days ago) - Cloudflare Terraform Provider
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.4.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.4.0), 1 month ago) - Terraform GitHub provider
