@@ -10,16 +10,16 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 
 
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (today)
-- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (1 day ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (2 days ago)
-- [Nmishin/golang-opennebula](https://github.com/Nmishin/golang-opennebula) - Example Go OpenNebula Iteration (2 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
+- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (2 days ago)
+- [Nmishin/golang-opennebula](https://github.com/Nmishin/golang-opennebula) - Example Go OpenNebula Iteration (3 days ago)
 - [aovpn/ansible-role-openvpn](https://github.com/aovpn/ansible-role-openvpn) - Ansible role to install and configure OpenVPN server (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.10](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.10), today) - Terraform dodo pizza provider
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.2.0-beta1](https://github.com/tofuutils/tenv/releases/tag/v4.2.0-beta1), 2 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.49.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.49.1), 3 days ago) - Cloudflare Terraform Provider
+- [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.11-beta7](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.11-beta7), 1 day ago) - Terraform dodo pizza provider
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.2.0-beta1](https://github.com/tofuutils/tenv/releases/tag/v4.2.0-beta1), 3 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.49.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.49.1), 4 days ago) - Cloudflare Terraform Provider
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.4.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.4.0), 1 month ago) - Terraform GitHub provider
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.1.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.1.0), 2 months ago) - pre-commit git hooks to take care of OpenTofu configurations
 
