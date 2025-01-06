@@ -9,7 +9,7 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 #### 👷 Currently working on
 
 
-- [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (6 days ago)
+- [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (1 week ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 week ago)
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (1 week ago)
 - [Nmishin/golang-opennebula](https://github.com/Nmishin/golang-opennebula) - Example Go OpenNebula Iteration (1 week ago)
