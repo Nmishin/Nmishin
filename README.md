@@ -9,7 +9,7 @@ DevOps engineer at [MY.GAMES](https://my.games/).
 #### 👷 Currently working on
 
 
-- [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (2 days ago)
+- [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (today)
 - [Nmishin/terraform-provider-twc](https://github.com/Nmishin/terraform-provider-twc) - Timeweb Cloud Terraform Provider (2 days ago)
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (2 weeks ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (2 weeks ago)
