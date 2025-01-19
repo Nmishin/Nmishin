@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nick
 
-DevOps engineer at [MY.GAMES](https://my.games/).
+DevOps engineer.
 
 #### 📫 How to reach me:
 
