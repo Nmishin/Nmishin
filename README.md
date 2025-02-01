@@ -17,7 +17,7 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.2.0-beta2](https://github.com/tofuutils/tenv/releases/tag/v4.2.0-beta2), 3 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.2.0-beta2](https://github.com/tofuutils/tenv/releases/tag/v4.2.0-beta2), 4 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v6.5.0](https://github.com/integrations/terraform-provider-github/releases/tag/v6.5.0), 2 weeks ago) - Terraform GitHub provider
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) ([v0.1.3](https://github.com/Nmishin/mustreveal/releases/tag/v0.1.3), 2 weeks ago) - Tool for reveal (decrypt) obscured rclone configuration.
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 2 weeks ago) - 
