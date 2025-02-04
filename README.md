@@ -10,15 +10,15 @@ DevOps engineer.
 
 
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (2 weeks ago)
-- [Nmishin/terraform-provider-twc](https://github.com/Nmishin/terraform-provider-twc) - Timeweb Cloud Terraform Provider (2 weeks ago)
+- [Nmishin/terraform-provider-twc](https://github.com/Nmishin/terraform-provider-twc) - Timeweb Cloud Terraform Provider (3 weeks ago)
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (1 month ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 month ago)
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.2.0-beta2](https://github.com/tofuutils/tenv/releases/tag/v4.2.0-beta2), 6 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
-- [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) ([v0.1.3](https://github.com/Nmishin/mustreveal/releases/tag/v0.1.3), 2 weeks ago) - Tool for reveal (decrypt) obscured rclone configuration.
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.2.0-beta2](https://github.com/tofuutils/tenv/releases/tag/v4.2.0-beta2), 1 week ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) ([v0.1.3](https://github.com/Nmishin/mustreveal/releases/tag/v0.1.3), 3 weeks ago) - Tool for reveal (decrypt) obscured rclone configuration.
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 3 weeks ago) - 
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.11-beta7](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.11-beta7), 1 month ago) - Terraform dodo pizza provider
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.1.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.1.0), 3 months ago) - pre-commit git hooks to take care of OpenTofu configurations
