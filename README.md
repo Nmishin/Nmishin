@@ -9,11 +9,11 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
+- [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (1 day ago)
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (3 weeks ago)
 - [Nmishin/terraform-provider-twc](https://github.com/Nmishin/terraform-provider-twc) - Timeweb Cloud Terraform Provider (3 weeks ago)
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) - Terraform dodo pizza provider (1 month ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 month ago)
-- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
