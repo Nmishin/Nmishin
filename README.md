@@ -9,15 +9,15 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (2 days ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (3 days ago)
+- [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (3 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (4 days ago)
 - [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (2 weeks ago)
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (1 month ago)
 - [Nmishin/terraform-provider-twc](https://github.com/Nmishin/terraform-provider-twc) - Timeweb Cloud Terraform Provider (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.2.4](https://github.com/tofuutils/tenv/releases/tag/v4.2.4), 1 week ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.2.4](https://github.com/tofuutils/tenv/releases/tag/v4.2.4), 2 weeks ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) ([v0.1.3](https://github.com/Nmishin/mustreveal/releases/tag/v0.1.3), 1 month ago) - Tool for reveal (decrypt) obscured rclone configuration.
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 1 month ago) - 
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.11-beta7](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.11-beta7), 1 month ago) - Terraform dodo pizza provider
