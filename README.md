@@ -9,8 +9,8 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
 - [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (1 week ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 week ago)
 - [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (3 weeks ago)
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (1 month ago)
 - [Nmishin/terraform-provider-twc](https://github.com/Nmishin/terraform-provider-twc) - Timeweb Cloud Terraform Provider (1 month ago)
