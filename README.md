@@ -9,10 +9,10 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) -  (1 day ago)
+- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) -  (2 days ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 week ago)
 - [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (2 weeks ago)
-- [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (4 weeks ago)
+- [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (1 month ago)
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
