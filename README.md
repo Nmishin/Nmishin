@@ -9,16 +9,16 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) -  (today)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (6 days ago)
+- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) -  (1 day ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 week ago)
 - [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (1 month ago)
 - [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (1 month ago)
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.0.0](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.0.0), 1 day ago) - 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.4.0](https://github.com/tofuutils/tenv/releases/tag/v4.4.0), 4 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.0.0](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.0.0), 2 days ago) - 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.4.0](https://github.com/tofuutils/tenv/releases/tag/v4.4.0), 5 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) ([v0.1.3](https://github.com/Nmishin/mustreveal/releases/tag/v0.1.3), 2 months ago) - Tool for reveal (decrypt) obscured rclone configuration.
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 2 months ago) - 
 - [Nmishin/terraform-provider-dodo](https://github.com/Nmishin/terraform-provider-dodo) ([v0.0.11-beta7](https://github.com/Nmishin/terraform-provider-dodo/releases/tag/v0.0.11-beta7), 2 months ago) - Terraform dodo pizza provider
