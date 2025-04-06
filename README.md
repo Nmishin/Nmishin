@@ -19,7 +19,7 @@ DevOps engineer.
 
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.2.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.2.0), 1 week ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.0.0](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.0.0), 1 week ago) - The command line interface for Leaseweb API
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.4.0](https://github.com/tofuutils/tenv/releases/tag/v4.4.0), 1 week ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.4.0](https://github.com/tofuutils/tenv/releases/tag/v4.4.0), 2 weeks ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) ([v0.1.3](https://github.com/Nmishin/mustreveal/releases/tag/v0.1.3), 2 months ago) - Tool for reveal (decrypt) obscured rclone configuration.
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 2 months ago) - 
 
