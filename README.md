@@ -9,7 +9,7 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (2 days ago)
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (3 weeks ago)
 - [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (2 months ago)
 - [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (3 months ago)
@@ -17,7 +17,7 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.6.2](https://github.com/tofuutils/tenv/releases/tag/v4.6.2), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.6.2](https://github.com/tofuutils/tenv/releases/tag/v4.6.2), 2 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.0](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.0), 3 weeks ago) - The command line interface for Leaseweb API
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.7](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.7), 1 month ago) - OpenTofu version manager
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.2.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.2.0), 1 month ago) - pre-commit git hooks to take care of OpenTofu configurations
