@@ -11,14 +11,14 @@ DevOps engineer.
 
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (1 day ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 week ago)
-- [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (2 months ago)
+- [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (3 months ago)
 - [CloudOpsKit/terraform-provider-s3](https://github.com/CloudOpsKit/terraform-provider-s3) -  (3 months ago)
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.1](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.1), 1 day ago) - The command line interface for Leaseweb API
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.6.2](https://github.com/tofuutils/tenv/releases/tag/v4.6.2), 1 week ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
-- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.0](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.0), 1 month ago) - The command line interface for Leaseweb API
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.7](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.7), 1 month ago) - OpenTofu version manager
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.2.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.2.0), 1 month ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) ([v0.1.3](https://github.com/Nmishin/mustreveal/releases/tag/v0.1.3), 4 months ago) - Tool for reveal (decrypt) obscured rclone configuration.
