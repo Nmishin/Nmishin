@@ -9,11 +9,11 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (2 days ago)
-- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (6 days ago)
-- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - Homebrew Tap of Nmishin tools (6 days ago)
+- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) -  (today)
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (today)
+- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - Homebrew Tap of Nmishin tools (1 week ago)
+- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (1 week ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (3 weeks ago)
-- [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
