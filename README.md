@@ -17,7 +17,7 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.7.1](https://github.com/tofuutils/tenv/releases/tag/v4.7.1), 3 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.7.6](https://github.com/tofuutils/tenv/releases/tag/v4.7.6), today) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.2.1](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.2.1), 1 week ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.8](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.8), 2 weeks ago) - The command line interface for Leaseweb API
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.7](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.7), 2 months ago) - OpenTofu version manager
