@@ -9,10 +9,10 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
+- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (today)
 - [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (4 days ago)
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) -  (1 week ago)
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (1 week ago)
-- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (2 weeks ago)
 - [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - Homebrew Tap of Nmishin tools (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
