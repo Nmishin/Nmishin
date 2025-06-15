@@ -9,15 +9,15 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (1 day ago)
-- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (1 day ago)
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (1 day ago)
+- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (2 days ago)
+- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (2 days ago)
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (1 week ago)
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) -  (1 week ago)
-- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - Homebrew Tap of Nmishin tools (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.7.6](https://github.com/tofuutils/tenv/releases/tag/v4.7.6), 3 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.7.6](https://github.com/tofuutils/tenv/releases/tag/v4.7.6), 4 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.2.1](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.2.1), 1 week ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.8](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.8), 2 weeks ago) - The command line interface for Leaseweb API
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.7](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.7), 2 months ago) - OpenTofu version manager
