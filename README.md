@@ -17,9 +17,9 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
+- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.30.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.30.0), today) - Bot for https://github.com/nochlezhka/mks
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.27.1](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.27.1), 4 days ago) - The Leaseweb terraform provider plugin
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) ([v0.1.5](https://github.com/Nmishin/mustreveal/releases/tag/v0.1.5), 5 days ago) - Tool for reveal (decrypt) obscured rclone configuration.
-- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.28.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.28.0), 1 week ago) - Bot for https://github.com/nochlezhka/mks
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.18.0](https://github.com/nochlezhka/mks/releases/tag/v2.18.0), 1 week ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.7.6](https://github.com/tofuutils/tenv/releases/tag/v4.7.6), 1 week ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 
