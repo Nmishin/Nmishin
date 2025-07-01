@@ -9,11 +9,11 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (4 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) - The Leaseweb terraform provider plugin (1 week ago)
 - [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (1 week ago)
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (1 week ago)
-- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (2 weeks ago)
+- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
