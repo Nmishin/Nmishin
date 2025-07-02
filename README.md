@@ -9,7 +9,7 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) - The Leaseweb terraform provider plugin (1 week ago)
 - [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (1 week ago)
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (1 week ago)
@@ -17,8 +17,8 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.2](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.2), 1 day ago) - 
-- [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.27.2](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.27.2), 4 days ago) - The Leaseweb terraform provider plugin
+- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.2](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.2), 2 days ago) - 
+- [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.27.2](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.27.2), 5 days ago) - The Leaseweb terraform provider plugin
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.30.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.30.0), 1 week ago) - Bot for https://github.com/nochlezhka/mks
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) ([v0.1.5](https://github.com/Nmishin/mustreveal/releases/tag/v0.1.5), 1 week ago) - Tool for reveal (decrypt) obscured rclone configuration.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.18.0](https://github.com/nochlezhka/mks/releases/tag/v2.18.0), 2 weeks ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
