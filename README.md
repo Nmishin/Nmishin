@@ -11,13 +11,13 @@ DevOps engineer.
 
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 week ago)
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) - The Leaseweb terraform provider plugin (3 weeks ago)
-- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (3 weeks ago)
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (3 weeks ago)
+- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (3 weeks ago)
 - [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.2](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.2), 1 week ago) - 
+- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.2](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.2), 2 weeks ago) - 
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.27.2](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.27.2), 2 weeks ago) - The Leaseweb terraform provider plugin
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.30.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.30.0), 2 weeks ago) - Bot for https://github.com/nochlezhka/mks
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) ([v0.1.5](https://github.com/Nmishin/mustreveal/releases/tag/v0.1.5), 3 weeks ago) - Tool for reveal (decrypt) obscured rclone configuration.
