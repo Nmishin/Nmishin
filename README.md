@@ -13,7 +13,7 @@ DevOps engineer.
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) - The Leaseweb terraform provider plugin (1 month ago)
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (1 month ago)
 - [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (1 month ago)
-- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (1 month ago)
+- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
