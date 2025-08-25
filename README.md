@@ -17,8 +17,8 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.7.19](https://github.com/tofuutils/tenv/releases/tag/v4.7.19), 1 day ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
-- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.31.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.31.0), 3 weeks ago) - Bot for https://github.com/nochlezhka/mks
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.7.19](https://github.com/tofuutils/tenv/releases/tag/v4.7.19), 2 days ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
+- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.31.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.31.0), 4 weeks ago) - Bot for https://github.com/nochlezhka/mks
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.28.0](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.28.0), 1 month ago) - The Leaseweb terraform provider plugin
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.2](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.2), 1 month ago) - 
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) ([v0.1.5](https://github.com/Nmishin/mustreveal/releases/tag/v0.1.5), 2 months ago) - Tool for reveal (decrypt) obscured rclone configuration.
