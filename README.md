@@ -17,7 +17,7 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
-- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.33.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.33.0), today) - Bot for https://github.com/nochlezhka/mks
+- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.33.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.33.0), 1 day ago) - Bot for https://github.com/nochlezhka/mks
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.7.21](https://github.com/tofuutils/tenv/releases/tag/v4.7.21), 1 week ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.28.0](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.28.0), 1 month ago) - The Leaseweb terraform provider plugin
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.2](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.2), 2 months ago) - 
