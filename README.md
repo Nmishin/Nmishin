@@ -12,12 +12,12 @@ DevOps engineer.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (2 months ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (2 months ago)
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) - The Leaseweb terraform provider plugin (2 months ago)
-- [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (2 months ago)
-- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (2 months ago)
+- [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (3 months ago)
+- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.8.0-alpha1](https://github.com/tofuutils/tenv/releases/tag/v4.8.0-alpha1), 2 days ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.8.0-alpha1](https://github.com/tofuutils/tenv/releases/tag/v4.8.0-alpha1), 3 days ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.34.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.34.0), 1 week ago) - Bot for https://github.com/nochlezhka/mks
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.19.0](https://github.com/nochlezhka/mks/releases/tag/v2.19.0), 1 week ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.28.1](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.28.1), 2 weeks ago) - The Leaseweb terraform provider plugin
