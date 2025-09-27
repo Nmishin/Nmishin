@@ -19,7 +19,7 @@ DevOps engineer.
 
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.8.0-alpha1](https://github.com/tofuutils/tenv/releases/tag/v4.8.0-alpha1), 1 week ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.34.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.34.0), 2 weeks ago) - Bot for https://github.com/nochlezhka/mks
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.19.0](https://github.com/nochlezhka/mks/releases/tag/v2.19.0), 2 weeks ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.19.0](https://github.com/nochlezhka/mks/releases/tag/v2.19.0), 3 weeks ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.28.1](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.28.1), 3 weeks ago) - The Leaseweb terraform provider plugin
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.2](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.2), 2 months ago) - 
 
