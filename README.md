@@ -9,19 +9,19 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
+- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (today)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (3 months ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (3 months ago)
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) - The Leaseweb terraform provider plugin (3 months ago)
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (3 months ago)
-- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.35.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.35.0), 5 days ago) - Bot for https://github.com/nochlezhka/mks
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.8.0-alpha1](https://github.com/tofuutils/tenv/releases/tag/v4.8.0-alpha1), 2 weeks ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
+- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.9](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.9), 1 day ago) - The command line interface for Leaseweb API
+- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.35.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.35.0), 6 days ago) - Bot for https://github.com/nochlezhka/mks
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.8.0-alpha1](https://github.com/tofuutils/tenv/releases/tag/v4.8.0-alpha1), 3 weeks ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.19.0](https://github.com/nochlezhka/mks/releases/tag/v2.19.0), 4 weeks ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.28.1](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.28.1), 1 month ago) - The Leaseweb terraform provider plugin
-- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.2](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.2), 3 months ago) - 
 
 #### 📜 My recent blog posts
 - [regreSSHion: Should We Panic About the New OpenSSH Vulnerability?](https://dzone.com/articles/what-is-the-regresshion-vulnerability)
