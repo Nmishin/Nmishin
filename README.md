@@ -17,7 +17,7 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
-- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.36.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.36.0), today) - Bot for https://github.com/nochlezhka/mks
+- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.36.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.36.0), 1 day ago) - Bot for https://github.com/nochlezhka/mks
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.8.0-beta1](https://github.com/tofuutils/tenv/releases/tag/v4.8.0-beta1), 1 week ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.9](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.9), 1 week ago) - The command line interface for Leaseweb API
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.19.0](https://github.com/nochlezhka/mks/releases/tag/v2.19.0), 1 month ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
