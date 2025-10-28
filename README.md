@@ -17,7 +17,7 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.2.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.2.2), 5 days ago) - pre-commit git hooks to take care of OpenTofu configurations
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.2.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.2.2), 6 days ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.36.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.36.0), 2 weeks ago) - Bot for https://github.com/nochlezhka/mks
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.8.0-beta1](https://github.com/tofuutils/tenv/releases/tag/v4.8.0-beta1), 3 weeks ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.9](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.9), 3 weeks ago) - The command line interface for Leaseweb API
