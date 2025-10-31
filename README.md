@@ -10,7 +10,7 @@ DevOps engineer.
 
 
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (3 weeks ago)
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (3 months ago)
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (4 months ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (4 months ago)
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) - The Leaseweb terraform provider plugin (4 months ago)
 - [Nmishin/mustreveal](https://github.com/Nmishin/mustreveal) - Tool for reveal (decrypt) obscured rclone configuration. (4 months ago)
