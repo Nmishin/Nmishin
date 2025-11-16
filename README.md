@@ -13,7 +13,7 @@ DevOps engineer.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (4 months ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (4 months ago)
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) - The Leaseweb terraform provider plugin (4 months ago)
-- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (4 months ago)
+- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
