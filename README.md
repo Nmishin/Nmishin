@@ -17,7 +17,7 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
-- [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.29.0](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.29.0), 1 week ago) - The Leaseweb terraform provider plugin
+- [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.29.0](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.29.0), 2 weeks ago) - The Leaseweb terraform provider plugin
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.2.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.2.2), 3 weeks ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.36.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.36.0), 1 month ago) - Bot for https://github.com/nochlezhka/mks
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.8.0-beta1](https://github.com/tofuutils/tenv/releases/tag/v4.8.0-beta1), 1 month ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
