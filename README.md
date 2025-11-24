@@ -17,8 +17,8 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
-- [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.30.0](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.30.0), 2 days ago) - The Leaseweb terraform provider plugin
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.8.3](https://github.com/tofuutils/tenv/releases/tag/v4.8.3), 4 days ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
+- [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.30.0](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.30.0), 3 days ago) - The Leaseweb terraform provider plugin
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.8.3](https://github.com/tofuutils/tenv/releases/tag/v4.8.3), 5 days ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.2.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.2.2), 1 month ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.36.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.36.0), 1 month ago) - Bot for https://github.com/nochlezhka/mks
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.9](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.9), 1 month ago) - The command line interface for Leaseweb API
