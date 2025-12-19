@@ -19,7 +19,7 @@ DevOps engineer.
 
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.9.0](https://github.com/tofuutils/tenv/releases/tag/v4.9.0), 2 weeks ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.20.0](https://github.com/nochlezhka/mks/releases/tag/v2.20.0), 3 weeks ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
-- [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.30.0](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.30.0), 3 weeks ago) - The Leaseweb terraform provider plugin
+- [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.30.0](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.30.0), 4 weeks ago) - The Leaseweb terraform provider plugin
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.2.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.2.2), 1 month ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) ([v0.36.0](https://github.com/nochlezhka/mks-bot/releases/tag/v0.36.0), 2 months ago) - Bot for https://github.com/nochlezhka/mks
 
