@@ -8,7 +8,7 @@ DevOps engineer.
 
 #### 👷 Currently working on
 
-{{range recentContributions 5}}
+{{range recentRepos 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
