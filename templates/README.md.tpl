@@ -9,7 +9,7 @@ DevOps engineer.
 #### 👷 Currently working on
 
 {{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}} ({{humanize .PushedAt}})
+- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
