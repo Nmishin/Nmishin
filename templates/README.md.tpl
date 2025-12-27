@@ -6,7 +6,7 @@ DevOps engineer.
 
 - ✉️ sanduku.default@gmail.com
 
-#### 👨 💻 Repositories I created recently
+#### 👷 Currently working on
 
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
