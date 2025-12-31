@@ -9,7 +9,7 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk (1 day ago)
+- [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk (2 days ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (4 weeks ago)
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (2 months ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (6 months ago)
@@ -17,7 +17,7 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
-- [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) ([v0.0.1](https://github.com/CloudOpsKit/smartctl_ssacli_exporter/releases/tag/v0.0.1), 1 day ago) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk
+- [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) ([v0.0.1](https://github.com/CloudOpsKit/smartctl_ssacli_exporter/releases/tag/v0.0.1), 2 days ago) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.9.0](https://github.com/tofuutils/tenv/releases/tag/v4.9.0), 4 weeks ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.20.0](https://github.com/nochlezhka/mks/releases/tag/v2.20.0), 1 month ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.30.0](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.30.0), 1 month ago) - The Leaseweb terraform provider plugin
