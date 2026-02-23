@@ -9,7 +9,7 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (3 days ago)
+- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (4 days ago)
 - [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk (1 month ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (2 months ago)
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (4 months ago)
@@ -19,7 +19,7 @@ DevOps engineer.
 
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.9.3](https://github.com/tofuutils/tenv/releases/tag/v4.9.3), 1 week ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) ([v0.0.1](https://github.com/CloudOpsKit/smartctl_ssacli_exporter/releases/tag/v0.0.1), 1 month ago) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.20.0](https://github.com/nochlezhka/mks/releases/tag/v2.20.0), 2 months ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.20.0](https://github.com/nochlezhka/mks/releases/tag/v2.20.0), 3 months ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.30.0](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.30.0), 3 months ago) - The Leaseweb terraform provider plugin
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.2.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.2.2), 4 months ago) - pre-commit git hooks to take care of OpenTofu configurations
 
