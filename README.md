@@ -10,8 +10,8 @@ DevOps engineer.
 
 
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (1 week ago)
-- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (1 week ago)
-- [Nmishin/hpb](https://github.com/Nmishin/hpb) - High-Performance backend Nextcloud Talk (1 week ago)
+- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (2 weeks ago)
+- [Nmishin/hpb](https://github.com/Nmishin/hpb) - High-Performance backend Nextcloud Talk (2 weeks ago)
 - [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk (2 months ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (3 months ago)
 
