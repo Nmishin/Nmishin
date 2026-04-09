@@ -9,7 +9,7 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (2 weeks ago)
+- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (3 weeks ago)
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (1 month ago)
 - [Nmishin/hpb](https://github.com/Nmishin/hpb) - High-Performance backend Nextcloud Talk (1 month ago)
 - [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk (3 months ago)
