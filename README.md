@@ -12,12 +12,12 @@ DevOps engineer.
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (1 week ago)
 - [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (1 month ago)
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (1 month ago)
-- [Nmishin/hpb](https://github.com/Nmishin/hpb) - High-Performance backend Nextcloud Talk (1 month ago)
+- [Nmishin/hpb](https://github.com/Nmishin/hpb) - High-Performance backend Nextcloud Talk (2 months ago)
 - [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.12.0](https://github.com/tofuutils/tenv/releases/tag/v4.12.0), 2 days ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.12.0](https://github.com/tofuutils/tenv/releases/tag/v4.12.0), 3 days ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.3.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.3.0), 1 week ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.10](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.10), 1 month ago) - The command line interface for Leaseweb API
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.31.0](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.31.0), 2 months ago) - The Leaseweb terraform provider plugin
