@@ -9,7 +9,7 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (4 days ago)
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (5 days ago)
 - [owainlewis/youtube-tutorials](https://github.com/owainlewis/youtube-tutorials) - All my YouTube tutorials (3 weeks ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (1 month ago)
 - [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (2 months ago)
@@ -17,7 +17,7 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.4.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.4.0), 5 days ago) - pre-commit git hooks to take care of OpenTofu configurations
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.4.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.4.0), 6 days ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.12.2](https://github.com/tofuutils/tenv/releases/tag/v4.12.2), 3 weeks ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.10](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.10), 2 months ago) - The command line interface for Leaseweb API
 - [leaseweb/terraform-provider-leaseweb](https://github.com/leaseweb/terraform-provider-leaseweb) ([v1.31.0](https://github.com/leaseweb/terraform-provider-leaseweb/releases/tag/v1.31.0), 3 months ago) - The Leaseweb terraform provider plugin
