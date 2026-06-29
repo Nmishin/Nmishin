@@ -9,11 +9,11 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
+- [Nmishin/telemt_exporter](https://github.com/Nmishin/telemt_exporter) - Prometheus exporter for telemt (today)
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (1 week ago)
 - [owainlewis/youtube-tutorials](https://github.com/owainlewis/youtube-tutorials) - All my YouTube tutorials. Everything here is free - but please follow me on YouTube if you find these helpful. ❤️ (1 month ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (2 months ago)
 - [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (3 months ago)
-- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
