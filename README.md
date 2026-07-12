@@ -9,7 +9,7 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [Nmishin/telemt_exporter](https://github.com/Nmishin/telemt_exporter) - Prometheus exporter for telemt (2 days ago)
+- [Nmishin/telemt_exporter](https://github.com/Nmishin/telemt_exporter) - Prometheus exporter for telemt (3 days ago)
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (3 weeks ago)
 - [owainlewis/youtube-tutorials](https://github.com/owainlewis/youtube-tutorials) - All my YouTube tutorials. Everything here is free - but please follow me on YouTube if you find these helpful. ❤️ (2 months ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (2 months ago)
@@ -17,7 +17,7 @@ DevOps engineer.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.4.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.4.2), 4 weeks ago) - pre-commit git hooks to take care of OpenTofu configurations
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.4.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.4.2), 1 month ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.14.8](https://github.com/tofuutils/tenv/releases/tag/v4.14.8), 1 month ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.10](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.10), 4 months ago) - The command line interface for Leaseweb API
 - [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) ([v0.0.1](https://github.com/CloudOpsKit/smartctl_ssacli_exporter/releases/tag/v0.0.1), 6 months ago) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk
