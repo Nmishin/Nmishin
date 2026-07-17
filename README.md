@@ -13,7 +13,7 @@ DevOps engineer.
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (3 weeks ago)
 - [owainlewis/youtube-tutorials](https://github.com/owainlewis/youtube-tutorials) - All my YouTube tutorials. Everything here is free - but please follow me on YouTube if you find these helpful. ❤️ (2 months ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (2 months ago)
-- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (3 months ago)
+- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
