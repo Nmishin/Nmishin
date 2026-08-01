@@ -9,7 +9,7 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [Nmishin/web-namp](https://github.com/Nmishin/web-namp) -  (3 days ago)
+- [Nmishin/web-namp](https://github.com/Nmishin/web-namp) -  (4 days ago)
 - [Nmishin/telemt_exporter](https://github.com/Nmishin/telemt_exporter) - Prometheus exporter for telemt (3 weeks ago)
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (1 month ago)
 - [owainlewis/youtube-tutorials](https://github.com/owainlewis/youtube-tutorials) - All my YouTube tutorials. Everything here is free - but please follow me on YouTube if you find these helpful. ❤️ (2 months ago)
