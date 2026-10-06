@@ -9,18 +9,18 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
+- [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk (today)
+- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (1 day ago)
 - [Nmishin/telemt_exporter](https://github.com/Nmishin/telemt_exporter) - Prometheus exporter for telemt (1 week ago)
 - [Nmishin/web-namp](https://github.com/Nmishin/web-namp) -  (1 month ago)
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (3 months ago)
-- [owainlewis/youtube-tutorials](https://github.com/owainlewis/youtube-tutorials) - All my YouTube tutorials. Everything here is free - but please follow me on YouTube if you find these helpful. (5 months ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) ([v0.0.5](https://github.com/CloudOpsKit/smartctl_ssacli_exporter/releases/tag/v0.0.5), today) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.15.1](https://github.com/tofuutils/tenv/releases/tag/v4.15.1), 2 months ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.4.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.4.2), 3 months ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.10](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.10), 7 months ago) - The command line interface for Leaseweb API
-- [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) ([v0.0.1](https://github.com/CloudOpsKit/smartctl_ssacli_exporter/releases/tag/v0.0.1), 9 months ago) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk
 
 #### 📜 My recent blog posts
 - [regreSSHion: Should We Panic About the New OpenSSH Vulnerability?](https://dzone.com/articles/what-is-the-regresshion-vulnerability)
