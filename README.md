@@ -9,17 +9,17 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (2 days ago)
-- [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk (3 days ago)
-- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (4 days ago)
+- [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (3 days ago)
+- [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk (4 days ago)
+- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (5 days ago)
 - [Nmishin/telemt_exporter](https://github.com/Nmishin/telemt_exporter) - Prometheus exporter for telemt (2 weeks ago)
 - [Nmishin/web-namp](https://github.com/Nmishin/web-namp) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) ([v0.0.5](https://github.com/CloudOpsKit/smartctl_ssacli_exporter/releases/tag/v0.0.5), 3 days ago) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk
+- [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) ([v0.0.5](https://github.com/CloudOpsKit/smartctl_ssacli_exporter/releases/tag/v0.0.5), 4 days ago) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.15.1](https://github.com/tofuutils/tenv/releases/tag/v4.15.1), 2 months ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.4.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.4.2), 3 months ago) - pre-commit git hooks to take care of OpenTofu configurations
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.4.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.4.2), 4 months ago) - pre-commit git hooks to take care of OpenTofu configurations
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.2.10](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.2.10), 7 months ago) - The command line interface for Leaseweb API
 
 #### 📜 My recent blog posts
