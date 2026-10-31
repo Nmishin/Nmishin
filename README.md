@@ -9,15 +9,15 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (2 days ago)
-- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (2 days ago)
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (6 days ago)
+- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (3 days ago)
+- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (3 days ago)
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (1 week ago)
 - [Nmishin/leaseweb_exporter](https://github.com/Nmishin/leaseweb_exporter) - Simple Leaseweb exporter for Prometheus (1 week ago)
 - [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.3.1](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.3.1), 2 days ago) - The command line interface for Leaseweb API
+- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.3.1](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.3.1), 3 days ago) - The command line interface for Leaseweb API
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.22.0](https://github.com/nochlezhka/mks/releases/tag/v2.22.0), 1 week ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) ([v0.0.5](https://github.com/CloudOpsKit/smartctl_ssacli_exporter/releases/tag/v0.0.5), 3 weeks ago) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.15.1](https://github.com/tofuutils/tenv/releases/tag/v4.15.1), 3 months ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
