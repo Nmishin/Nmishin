@@ -9,15 +9,15 @@ DevOps engineer.
 #### 👷 Currently working on
 
 
-- [nochlezhka/ansible-role-mks](https://github.com/nochlezhka/ansible-role-mks) -  (2 days ago)
-- [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk (4 days ago)
-- [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) - The command line interface for Leaseweb API (2 weeks ago)
-- [Nmishin/homebrew-tap](https://github.com/Nmishin/homebrew-tap) - 🍺 Nikolai’s personal Homebrew Tap for easy tool installation. (2 weeks ago)
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (2 weeks ago)
+- [tofuutils/chocolatey-packages](https://github.com/tofuutils/chocolatey-packages) - Chocolatey packages that are managed and maintained by tofuutils team for community package repository (today)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager (today)
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (1 day ago)
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (2 days ago)
+- [nochlezhka/ansible-role-mks](https://github.com/nochlezhka/ansible-role-mks) -  (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.23.0](https://github.com/nochlezhka/mks/releases/tag/v2.23.0), 5 days ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.24.0](https://github.com/nochlezhka/mks/releases/tag/v2.24.0), 1 day ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [Nmishin/leaseweb-cli](https://github.com/Nmishin/leaseweb-cli) ([v1.3.1](https://github.com/Nmishin/leaseweb-cli/releases/tag/v1.3.1), 2 weeks ago) - The command line interface for Leaseweb API
 - [CloudOpsKit/smartctl_ssacli_exporter](https://github.com/CloudOpsKit/smartctl_ssacli_exporter) ([v0.0.5](https://github.com/CloudOpsKit/smartctl_ssacli_exporter/releases/tag/v0.0.5), 1 month ago) - Export metric from HP enterprise raid card &amp;&amp; disk smartctl with auto detect disk
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.15.1](https://github.com/tofuutils/tenv/releases/tag/v4.15.1), 3 months ago) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
